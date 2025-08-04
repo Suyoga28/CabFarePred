@@ -2,6 +2,10 @@
 
 This project focuses on predicting New York City cab fares based on historical ride data, using machine learning regression techniques. Implemented in a Jupyter Notebook, it showcases real-world data preprocessing, feature engineering, and regression modeling.
 
+- 🚀 Deployed on Streamlit Cloud
+  
+![Demo Screenshot](CFP.jpg)
+
 ---
 
 ## 📌 Project Objective
