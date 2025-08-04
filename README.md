@@ -21,6 +21,7 @@ The goal is to build a predictive model that can estimate the fare amount for NY
 ## 🛠️ Tech Stack
 
 - Python
+- Streamlit
 - Jupyter Notebook
 - Libraries: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn`, `Datetime`
 
